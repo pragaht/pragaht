@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/7z9sKp4mH0UAAAAC/evangelion-unit01.gif" width="600">
+  <img src="https://tenor.com/pt-BR/view/rei-rei-ayanami-nge-gif-21351524" width="600">
 </p>
 
 🔴 pragaht
