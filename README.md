@@ -1,5 +1,6 @@
-<div class="tenor-gif-embed" data-postid="21351524" data-share-method="host" data-aspect-ratio="1.09589" data-width="100%"><a href="https://tenor.com/view/rei-rei-ayanami-nge-gif-21351524">Rei Rei Ayanami Sticker</a>from <a href="https://tenor.com/search/rei-stickers">Rei Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> width 600px;
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pragaht/pragaht/main/nerv-evangelion.gif" width="600">
+</p>
 
 🔴 pragaht
 ```diff
