@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://media.tenor.com/qLBP0X5pK9EAAAAC/evangelion-nerv.gif" width="600">
-</p>
+  <img src="https://tenor.com/view/anime-evangelion-gif-4IO7.gif" width="600">
+</p>2
 
 🔴 pragaht
 ```diff
